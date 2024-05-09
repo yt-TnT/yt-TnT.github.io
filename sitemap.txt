@@ -1,2 +1,3 @@
+http://example.com/2024/05/09/123/
 http://example.com/resource/index.html
 http://example.com/
